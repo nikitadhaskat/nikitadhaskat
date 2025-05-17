@@ -1,5 +1,5 @@
 ## Hi there 👋
-[![MasterHead](https://github.com/Nishantsgithub/Nishantsgithub)]
+
 <h1 align="center">Hi 👋, I'm Nikita</h1>
 <h3 align="center">A passionate Java Developer From India</h3>
 

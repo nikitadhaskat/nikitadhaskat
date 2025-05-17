@@ -1,5 +1,5 @@
 ## Hi there 👋
-[![MasterHead](https://www.google.com/search?sca_esv=5ea039d3f5929d6f&rlz=1C1GCEU_enIN1161IN1161&sxsrf=AHTn8zoWRn1vGlk5uJsSkbZdiWriuvuKyw:1747476707302&q=coding+banner+gif+image+for+github&udm=2&fbs=ABzOT_CWdhQLP1FcmU5B0fn3xuWpA-dk4wpBWOGsoR7DG5zJBkzPWUS0OtApxR2914vrjk60CMaA0jPMd-1UByCaBk9RKJ4HEp1SDb4A8RXo1r1hGBfiKMSt_TMxeT9qIWOfrkTRcZEbvkPWAxvKnVoYamBSvzGShNGtazFU2DO1kvSzHlpcsPhEz9nmyhBcxJuVzH5dxhZ9s2OSjJOnu3mNia_ntJzH8Q&sa=X&ved=2ahUKEwiIoZGDoqqNAxWJUGcHHUFiDNMQtKgLegQIIxAB&biw=744&bih=631&dpr=1.46#vhid=TkI7gQ7Q4UqbWM&vssid=mosaic)]
+[![MasterHead](https://www.google.com/search?sca_esv=5ea039d3f5929d6f&rlz=1C1GCEU_enIN1161IN1161&sxsrf=AHTn8zoWRn1vGlk5uJsSkbZdiWriuvuKyw:1747476707302&q=coding+banner+gif+image+for+github&udm=2&fbs=ABzOT_CWdhQLP1FcmU5B0fn3xuWpA-dk4wpBWOGsoR7DG5zJBkzPWUS0OtApxR2914vrjk60CMaA0jPMd-1UByCaBk9RKJ4HEp1SDb4A8RXo1r1hGBfiKMSt_TMxeT9qIWOfrkTRcZEbvkPWAxvKnVoYamBSvzGShNGtazFU2DO1kvSzHlpcsPhEz9nmyhBcxJuVzH5dxhZ9s2OSjJOnu3mNia_ntJzH8Q&sa=X&ved=2ahUKEwiIoZGDoqqNAxWJUGcHHUFiDNMQtKgLegQIIxAB&biw=744&bih=631&dpr=1.46#vhid=TkI7gQ7Q4UqbWM&vssid=mosaic)](http://nikitadhaskat.io)
 <h1 align="center">Hi 👋, I'm Nikita</h1>
 <h3 align="center">A passionate Java Developer From India</h3>
 

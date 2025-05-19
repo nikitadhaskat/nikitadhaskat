@@ -2,6 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Nikita</h1>
 <h3 align="center">A Passionate Java Developer From India</h3>
+<img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikitadhaskat&label=Profile%20views&color=0e75b6&style=flat" alt="nikitadhaskat" /> </p>
 

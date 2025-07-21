@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning "Java"
 
-- 💬 Ask me about "Core Java,MySql"
+- 💬 Ask me about "Java"
 
 - 📫 How to reach me "nikitadhaskat2002@gmail.com"
 

@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikitadhaskat&label=Profile%20views&color=0e75b6&style=flat" alt="nikitadhaskat" /> </p>
 
-- 🌱 I’m currently learning "Java"
+- 🌱 I’ve strong foundation in "Java"
 
-- 💬 Ask me about "Java"
+- 💬 Ask me about "Core Java","Advanced Java","SpringBoot"
 
 - 📫 How to reach me "nikitadhaskat2002@gmail.com"
 

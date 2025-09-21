@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikitadhaskat&label=Profile%20views&color=0e75b6&style=flat" alt="nikitadhaskat" /> </p>
 
-- 🌱 I’ve strong foundation in "Java"
+- 🌱 I’ve a strong foundation in "Java"
 
 - 💬 Ask me about "Core Java","Advanced Java","SpringBoot"
 
